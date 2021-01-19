@@ -1,0 +1,183 @@
+CBSA,County,2019
+10180,"Abilene, TX",179.8
+10420,"Akron, OH",155
+10580,"Albany-Schenectady-Troy, NY",218.8
+10740,"Albuquerque, NM",225
+10900,"Allentown-Bethlehem-Easton, PA-NJ",207.2
+11100,"Amarillo, TX",165.1
+11244,"Anaheim-Santa Ana-Irvine, CA",825
+11460,"Ann Arbor, MI",294.7
+11540,"Appleton, WI",189.2
+12060,"Atlanta-Sandy Springs-Marietta, GA",233.2
+12100,"Atlantic City-Hammonton, NJ",210.2
+12420,"Austin-Round Rock, TX",329.2
+12580,"Baltimore-Columbia-Towson, MD",299.4
+12700,"Barnstable Town, MA",430
+12940,"Baton Rouge, LA",216.4
+13140,"Beaumont-Port Arthur, TX",168.7
+13780,"Binghamton, NY",119.4
+13820,"Birmingham-Hoover, AL",221.6
+13900,"Bismarck, ND",250.7
+14010,"Bloomington, IL",158.7
+14260,"Boise City-Nampa, ID",294.2
+14460,"Boston-Cambridge-Newton, MA-NH",491.9
+14500,"Boulder, CO",618.6
+14540,"Bowling Green, KY",186.6
+14860,"Bridgeport-Stamford-Norwalk, CT",445.6
+15380,"Buffalo-Cheektowaga-Niagara Falls, NY",160.9
+15540,"Burlington-South Burlington, VT",308.3
+15940,"Canton-Massillon, OH",139.4
+15980,"Cape Coral-Fort Myers, FL",258.7
+16020,"Cape Girardeau, MO-IL",154.7
+16300,"Cedar Rapids, IA",165.6
+16580,"Champaign-Urbana, IL",157.1
+16700,"Charleston-North Charleston, SC",293.5
+16620,"Charleston, WV",137.6
+16740,"Charlotte-Concord-Gastonia, NC-SC",258.6
+16860,"Chattanooga, TN-GA",193.3
+16980,"Chicago-Naperville-Elgin, IL-IN-WI",265.1
+17140,"Cincinnati, OH-KY-IN",185.6
+17460,"Cleveland-Elyria, OH",164.1
+17820,"Colorado Springs, CO",320.5
+17860,"Columbia, MO",206.4
+17900,"Columbia, SC",185
+18140,"Columbus, OH",216.6
+18580,"Corpus Christi, TX",201.1
+18880,"Crestview-Fort Walton Beach-Destin, FL",285.7
+19060,"Cumberland, MD-WV",106.7
+19100,"Dallas-Fort Worth-Arlington, TX",268.6
+19340,"Davenport-Moline-Rock Island, IA-IL",135.4
+19380,"Dayton, OH",157.8
+19460,"Decatur, AL",154
+19500,"Decatur, IL",96.5
+19660,"Deltona-Daytona Beach-Ormond Beach, FL",225
+19740,"Denver-Aurora-Lakewood, CO",462.1
+19780,"Des Moines-West Des Moines, IA",214.5
+19820,"Detroit-Warren-Deaborn, MI",195.8
+20100,"Dover, DE",218.2
+20500,"Durham-Chapel Hill, NC",295.9
+20524,"Dutchess County-Putnam County, NY",308
+21300,"Elmira, NY",112.5
+21340,"El Paso, TX",164.4
+21500,"Erie, PA",125.3
+21660,"Eugene, OR",308.6
+22020,"Fargo, ND-MN",221
+22140,"Farmington, NM",186.7
+22180,"Fayetteville, NC",144.4
+22220,"Fayetteville-Springdale-Rogers, AR-MO",203
+22500,"Florence, SC",146.1
+22540,"Fond du Lac, WI",145.7
+23060,"Fort Wayne, IN",155.3
+23420,"Fresno, CA",281.6
+23540,"Gainesville, FL",240
+23844,"Gary-Hammond, IN",183.6
+24020,"Glens Falls, NY",182
+24340,"Grand Rapids-Wyoming, MI",210.5
+24580,"Green Bay, WI",189.4
+24660,"Greensboro-High Point, NC",176.2
+24860,"Greenville-Anderson-Mauldin, SC",223.3
+25060,"Gulfport-Biloxi-Pascagoulia, MS",151.7
+25180,"Hagerstown-Martinsburg, MD-WV",191.3
+25420,"Harrisburg-Carlisle, PA",180.6
+25540,"Hartford-West Hartford-East Hartford, CT",237.3
+26420,"Houston-The Woodlands-Sugar Land, TX",245.8
+26620,"Huntsville, AL",223.5
+26900,"Indianapolis-Carmel-Anderson, IN",200.1
+27140,"Jackson, MS",179.3
+27260,"Jacksonville, FL",225.7
+28100,"Kankakee, IL",143.3
+28140,"Kansas City, MO-KS",219.4
+28420,"Kennewick-Richland, WA",299.8
+28740,"Kingston, NY",240.9
+28940,"Knoxville, TN",205.2
+29460,"Lakeland-Winter Haven, FL",210
+29620,"Lansing-East Lansing, MI",159.5
+29820,"Las Vegas-Henderson-Paradise, NV",306
+30460,"Lexington-Fayette, KY",180
+30700,"Lincoln, NE",198.4
+30780,"Little Rock-North Little Rock-Conway, AR",152.5
+31084,"Los Angeles-Long Beach-Glendale, CA",611.2
+31140,"Louisville/Jefferson County, KY-IN",192.7
+31540,"Madison, WI",299.2
+31700,"Manchester-Nashua, NH",317.4
+32820,"Memphis, TN-MS-AR",188.7
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL",360
+33340,"Milwaukee-Waukesha-West Allis, WI",268.4
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",288.6
+33660,"Mobile, AL",152.6
+33860,"Montgomery, AL",152.8
+34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",234.3
+34940,"Naples-Immokalee-Marco Island, FL",435
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",275
+35004,"Nassau County-Suffolk County, NY",491.6
+35300,"New Haven-Milford, CT",237.4
+35380,"New Orleans-Metairie, LA",222
+35614,"New York-Jersey City-White Plains, NY-NJ",386.5
+35620,"New York-Newark-Jersey City, NY-NJ-PA",423.9
+35084,"Newark, NJ-PA",397.1
+35840,"North Port-Sarasota-Bradenton, FL",304.8
+35980,"Norwich-New London, CT",234.9
+36100,"Ocala, FL",170.6
+36420,"Oklahoma City, OK",158.9
+36540,"Omaha-Council Bluffs, NE-IA",200.7
+36740,"Orlando-Kissimmee-Sanford, FL",276
+36780,"Oshkosh-Neenah, WI",157.6
+37340,"Palm Bay-Melbourne-Titusville, FL",238.9
+37460,"Panama City, FL",229.5
+37860,"Pensacola-Ferry Pass-Brent, FL",219.9
+37900,"Peoria, IL",120.7
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",246.2
+38060,"Phoenix-Mesa-Scottsdale, AZ",287.1
+38340,"Pittsfield, MA",223.2
+38940,"Port St. Lucie, FL",250
+38860,"Portland-South Portland, ME",308.5
+38900,"Portland-Vancouver-Hillsboro, OR-WA",409.3
+39300,"Providence-Warwick, RI-MA",311.1
+39460,"Punta Gorda, FL",230
+39580,"Raleigh, NC",291.5
+39740,"Reading, PA",173.8
+39900,"Reno, NV",393.9
+40060,"Richmond, VA",264
+40140,"Riverside-San Bernardino-Ontario, CA",378.5
+40380,"Rochester, NY",154.2
+40420,"Rockford, IL",128.3
+40900,"Sacramento--Roseville--Arden-Arcade, CA",380
+40980,"Saginaw, MI",N/A
+41180,"St. Louis, MO-IL",187.5
+41420,"Salem, OR",310.7
+41620,"Salt Lake City, UT",355.2
+41700,"San Antonio-New Braunfels, TX",236.6
+41740,"San Diego-Carlsbad, CA",645
+41860,"San Francisco-Oakland-Hayward, CA",988
+41940,"San Jose-Sunnyvale-Santa Clara, CA",1265
+42660,"Seattle-Tacoma-Bellevue, WA",524.7
+42680,"Sebastian-Vero Beach, FL",250
+43300,"Sherman-Denison, TX",189.3
+43340,"Shreveport-Bossier City, LA",176.4
+43620,"Sioux Falls, SD",221.4
+43780,"South Bend-Mishawaka, IN-MI",141.9
+43900,"Spartanburg, SC",183.8
+44060,"Spokane-Spokane Valley, WA",265.3
+44100,"Springfield, IL",141.8
+44140,"Springfield, MA",229
+44180,"Springfield, MO",154.6
+45060,"Syracuse, NY",146.5
+45220,"Tallahassee, FL",227
+45300,"Tampa-St. Petersburg-Clearwater, FL",245
+45780,"Toledo, OH",131
+45820,"Topeka, KS",135.7
+45940,"Trenton, NJ",276.3
+46060,"Tucson, AZ",238.9
+46140,"Tulsa, OK",173.2
+46520,"Urban Honolulu, HI",802.5
+47260,"Virginia Beach-Norfolk-Newport News, VA-NC",235
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",440.9
+47940,"Waterloo-Cedar Falls, IA",133.1
+48620,"Wichita, KS",158.2
+48660,"Wichita Falls, TX",125.9
+48900,"Wilmington, NC",264.7
+49180,"Winston-Salem, NC",177.3
+49340,"Worcester, MA-CT",288.1
+49420,"Yakima, WA",248.9
+49620,"York-Hanover, PA",184.1
+49660,"Youngstown-Warren-Boardman, OH-PA",102.6
