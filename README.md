@@ -8,4 +8,16 @@ I am using the [Natural Amenities Scale](https://www.ers.usda.gov/data-products/
 
 I am supplementing this with updated measures of urbanization, provided by the USDA [here](https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx)
 
-The housing data that I am using as my target, provided by the Census, can be found [here](https://data.census.gov/cedsci/table?q=home%20values%202013%20county&t=Housing&g=0100000US.050000&tid=ACSST1Y2013.S2506&hidePreview=true).
+The housing data that I am using as my target can be found [here](https://www.nar.realtor/research-and-statistics/housing-statistics/metropolitan-median-area-prices-and-affordability).
+
+I also used population density information from Wikipedia. 
+
+# Tools
+- Python
+- Numpy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+# Applications
+Natural amenity features do capture variation in median home price. Adding them to conventional models can improve predictive power of housing costs per city and county. 
