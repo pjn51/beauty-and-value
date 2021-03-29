@@ -1,4 +1,4 @@
-# metis-project-2
+# Metis Project 2: Beauty and Value
 
 # My Objective
 I want to see if there's a relationship between the natural beauty of an area and the price people are willing to pay in order to live there. 
